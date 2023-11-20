@@ -1,7 +1,6 @@
 Lab report 4:
 
 step 4:
-
 ![image](https://github.com/Malakelis/cse15l-lab-reports/assets/63074465/c3ae5684-69f8-4cfd-950b-17bdf529d35e)
 I ssh into the ieng server by using cmd c and cmd v on mac with the command I copied previously to my keyboard to shorten the process.
 Keys pressed: 
