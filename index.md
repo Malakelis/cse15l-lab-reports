@@ -6,10 +6,7 @@ I ssh into the ieng server by using cmd c and cmd v on mac with the command I co
 Keys pressed: <command-c> <command-v>
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
 <command-c> <up>
-}
 ```
 
 step 5:
