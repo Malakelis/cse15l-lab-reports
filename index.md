@@ -1,4 +1,4 @@
-![image](https://github.com/Malakelis/cse15l-lab-reports/assets/63074465/92a59088-b0a0-4333-94f3-c64f1265a1ad)Lab report 4:
+Lab report 4:
 
 step 4:
 ![image](https://github.com/Malakelis/cse15l-lab-reports/assets/63074465/c3ae5684-69f8-4cfd-950b-17bdf529d35e)
