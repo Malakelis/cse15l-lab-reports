@@ -11,7 +11,7 @@ Keys pressed:
 
 step 5:
 ![image](https://github.com/Malakelis/cse15l-lab-reports/assets/63074465/1b9203a6-cd87-42a8-bb98-16de45142c74)
-I git clone the fork I made of the lab7 repository using the SSH url with uses the SSH authentication key I added to github for read/write access.
+I git clone the fork I made of the lab7 repository using the SSH url which uses the SSH authentication key I added to github for read/write access.
 I copy the command from a notepad to also quicken up this process too.
 Keys pressed:
 ```
