@@ -74,6 +74,17 @@ Keys pressed:
 :wq
 ```
 
+![image](https://github.com/Malakelis/cse15l-lab-reports/assets/63074465/5e25e431-584b-48a1-a063-0260341b578f)
+
+In this screenshot I press up key twice to go to my previous bash test.sh command and then press enter to see that the tests now run fine after the bug I changed.
+Keys pressed:
+```
+<up> <up>
+<enter>
+```
+
+
+
 ![image](https://github.com/Malakelis/cse15l-lab-reports/assets/63074465/753906da-5c7d-4f92-a26e-a359c4df51b0)
 In this final screenshot, I typed git status to see the status of what is currently being stated to commit and what has also been modified. Then I used git add ListExamples.java to add the file that I had changed the bug for the commit. Then I did git commit but that opened up vim so I exited and then I remembered in lecture that there is a faster way to do this by using git commit -m "fixed error" to commit the changes I had made. Finally, I did git push to upload the local repository content and my changes I had made to my forked repository.
 Keys pressed:
